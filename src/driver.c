@@ -3629,11 +3629,15 @@ BOMULEUL CHAJARA SEGA ST-V  1997/04/11
 	DRIVER( solomon )	/* (c) 1986 Tecmo */
 	DRIVER( rygar )		/* 6002 - (c) 1986 Tecmo */
 	DRIVER( rygar2 )	/* 6002 - (c) 1986 Tecmo */
+	DRIVER( rygar3 )	/* 6002 - (c) 1986 Tecmo */
 	DRIVER( rygarj )	/* 6002 - (c) 1986 Tecmo */
+	DRIVER( rygarj2 )	/* 6002 - (c) 1986 Tecmo */
 	DRIVER( gemini )	/* (c) 1987 Tecmo */
-  DRIVER( backfirt )	/* 6217 - (c) 1988 Tecmo */
+	DRIVER( geminij )	/* (c) 1987 Tecmo */
+	DRIVER( geminib )	/* (c) 1987 Tecmo */
+	DRIVER( backfirt )	/* 6217 - (c) 1988 Tecmo */
 	DRIVER( silkworm )	/* 6217 - (c) 1988 Tecmo */
-	DRIVER( silkwrm2 )	/* 6217 - (c) 1988 Tecmo */
+	DRIVER( silkwormj)	/* 6217 - (c) 1988 Tecmo */
 	DRIVER( tbowl )		/* 6206 - (c) 1987 Tecmo */
 	DRIVER( tbowlj )	/* 6206 - (c) 1987 Tecmo */
 	DRIVER( shadoww )	/* 6215 - (c) 1988 Tecmo (World) */
